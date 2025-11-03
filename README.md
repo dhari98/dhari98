@@ -1,37 +1,57 @@
-# 👋 Hi, I'm Dhari Al-Rufaye  
+👋 Hi, I'm Dhari Al-Rufaye
 
-🎯 **Android App Developer** | Kotlin | Firebase | UI/UX | Google Play  
+🎯 Android App Developer | Kotlin | Android Studio | Firebase | AdMob | UI/UX | Google Play
 
-I’m a self-taught Android developer with practical experience in building, publishing, and maintaining production-ready apps using **Kotlin** and **modern Android Jetpack libraries**.  
-I focus on clean architecture (MVVM), UI/UX design, and performance optimization.  
+I’m a self-taught Android developer with hands-on experience building, publishing, and maintaining production apps using Kotlin and modern Android Jetpack. I focus on clean architecture (MVVM), smooth UI/UX, and performance optimization.
 
----
+🚀 Tech Stack
 
-### 🌱 Currently Learning
-- Jetpack Compose & Material 3  
-- Advanced Firebase features (Cloud Functions, Firestore Security Rules)  
-- CI/CD automation for Android (GitHub Actions)
+Languages & Core: Kotlin, Coroutines, Flow
 
----
+IDE & Tools: Android Studio, Git/GitHub, Gradle
 
-### 💼 Published Apps
-Check out my apps live on **Google Play** 👇  
-🔗 [My Google Play Developer Page](https://play.google.com/store/apps/dev?id=7697350556322115717) 
-*(Replace with your real Play Store link)*  
+Android & Jetpack: ViewModel, LiveData, Room, Navigation, WorkManager
 
----
+Networking & Data: Retrofit/OkHttp, Gson/Moshi, SQLite/Room
 
-### 🤝 Collaboration
-I’m open to collaborating on **mobile apps**, especially in education, productivity, or language learning fields.  
-Also interested in **international remote projects** and **visa sponsorship opportunities**.  
+Firebase: Auth, Firestore/Realtime DB, Cloud Messaging, Crashlytics, Remote Config
 
----
+Monetization: AdMob (banners, interstitials; load/show best-practices)
 
-### 📫 Contact Me
-📧 **Email:** dharialrufaye@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/dhari98](https://www.linkedin.com/in/)  
-🌍 **Portfolio / All Links:** [linktr.ee/dhari98](https://linktr.ee/dhari98)  
+UI/UX: Material Design, XML, Motion/Transitions, Vector & Lottie
 
----
+Testing & Release: Unit/UI tests, Play Console, app bundles, staged rollout
 
-⭐️ Feel free to check my repositories and see sample projects built with Kotlin, Firebase, and Jetpack Compose.
+🌱 Currently Learning
+
+Jetpack Compose & Material 3
+
+Advanced Firebase (Cloud Functions, Security Rules)
+
+CI/CD for Android (GitHub Actions)
+
+💼 Published Apps
+
+Live on Google Play 👇
+🔗 My Google Play Developer Page
+ (replace with your real link)
+
+Highlights:
+
+Almani Meister – ألماني مايستر: multi-level German learning (A1–C1), TTS, listening, favorites, progress lock; Firebase + AdMob
+
+Notes App, Weather App, Voice-Color Game: Room, Retrofit, Notifications, AdMob integration
+
+🤝 Collaboration
+
+Open to collaborating on education, productivity, and language learning apps. Also interested in remote roles and visa-sponsorship opportunities.
+
+📫 Contact
+
+📧 Email: dharialrufaye@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/dhari98
+
+🌍 Portfolio / All Links: linktr.ee/dhari98
+
+⭐️ Explore repos for clean, well-documented Kotlin projects with Firebase, Room, Retrofit, and AdMob best practices.
