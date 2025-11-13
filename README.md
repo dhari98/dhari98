@@ -1,26 +1,69 @@
 👋 Hi, I'm Dhari Al-Rufaye
-
 🎯 Android App Developer | Kotlin | Android Studio | Firebase | AdMob | UI/UX | Google Play
 
-I’m a self-taught Android developer with hands-on experience building, publishing, and maintaining production apps using Kotlin and modern Android Jetpack. I focus on clean architecture (MVVM), smooth UI/UX, and performance optimization.
+I’m a self-taught Android developer who started learning and improving in this field consistently since 2020. Over the years, I’ve developed my skills through continuous practice, problem-solving, and following the latest Android standards.
+Programming has become more than a job — it’s a craft that allows me to build smart and meaningful digital experiences that help people.
 
 🚀 Tech Stack
+Languages & Core
 
-Languages & Core: Kotlin, Coroutines, Flow
+Kotlin, Coroutines, Flow
 
-IDE & Tools: Android Studio, Git/GitHub, Gradle
+IDE & Tools
 
-Android & Jetpack: ViewModel, LiveData, Room, Navigation, WorkManager
+Android Studio, Git/GitHub, Gradle
 
-Networking & Data: Retrofit/OkHttp, Gson/Moshi, SQLite/Room
+Android & Jetpack
 
-Firebase: Auth, Firestore/Realtime DB, Cloud Messaging, Crashlytics, Remote Config
+ViewModel, LiveData, Room, Navigation, WorkManager, DataStore
 
-Monetization: AdMob (banners, interstitials; load/show best-practices)
+Networking & Data
 
-UI/UX: Material Design, XML, Motion/Transitions, Vector & Lottie
+Retrofit / OkHttp, Moshi / Gson, SQLite / Room
 
-Testing & Release: Unit/UI tests, Play Console, app bundles, staged rollout
+Firebase
+
+Authentication (Email/Password + Google Sign-In)
+Cloud Firestore & Realtime Database
+Cloud Messaging (Push Notifications)
+Crashlytics, Remote Config
+
+Monetization
+
+AdMob (banner, interstitial, native)
+Best practices for loading/showing ads efficiently
+
+UI/UX
+
+Material Design, XML layouts
+MotionLayout, Animations, Lottie, Vector assets
+
+Testing & Release
+
+Unit/UI tests, App Bundles, Play Console, Staged Rollouts
+
+📱 Published Projects
+
+Live apps on Google Play:
+🔗 Your Google Play Developer Page (replace with link)
+
+Highlights include:
+
+Apps featuring secure login systems (Firebase Auth + Google Sign-In)
+
+Apps with push notifications (Firebase Cloud Messaging)
+
+Educational, productivity, and utility apps using:
+
+Room database
+
+Retrofit APIs
+
+AdMob monetization
+
+Clean MVVM architecture
+
+Offline caching, progress saving, etc.
 
 🌱 Currently Learning
 
@@ -28,30 +71,23 @@ Jetpack Compose & Material 3
 
 Advanced Firebase (Cloud Functions, Security Rules)
 
-CI/CD for Android (GitHub Actions)
-
-💼 Published Apps
-
-Live on Google Play 👇
-🔗 My Google Play Developer Page
- (replace with your real link)
-
-Highlights:
-
-Almani Meister – ألماني مايستر: multi-level German learning (A1–C1), TTS, listening, favorites, progress lock; Firebase + AdMob
-
-Notes App, Weather App, Voice-Color Game: Room, Retrofit, Notifications, AdMob integration
+Android CI/CD with GitHub Actions
 
 🤝 Collaboration
 
-Open to collaborating on education, productivity, and language learning apps. Also interested in remote roles and visa-sponsorship opportunities.
+I’m open to collaborating on:
+
+Education apps
+
+Productivity tools
+
+Language-learning apps
+
+Also open to remote roles and visa-sponsorship opportunities.
 
 📫 Contact
 
 📧 Email: dharialrufaye@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/dhari98
-
-🌍 Portfolio / All Links: linktr.ee/dhari98
-
-⭐️ Explore repos for clean, well-documented Kotlin projects with Firebase, Room, Retrofit, and AdMob best practices.
+🌍 Portfolio / All links: linktr.ee/dhari98
