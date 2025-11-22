@@ -45,7 +45,7 @@ Unit/UI tests, App Bundles, Play Console, Staged Rollouts
 📱 Published Projects
 
 Live apps on Google Play:
-🔗 Your Google Play Developer Page (replace with link)
+🔗 Your Google Play Developer Page ([replace with link](https://play.google.com/store/apps/dev?id=7697350556322115717)
 
 Highlights include:
 
@@ -87,7 +87,6 @@ Also open to remote roles and visa-sponsorship opportunities.
 
 📫 Contact
 
-📧 Email: dharialrufaye@gmail.com
+📧 Email: dharifon@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/dhari98
-🌍 Portfolio / All links: linktr.ee/dhari98
+🌍 All links: linktr.ee/dhari98
