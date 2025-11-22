@@ -43,7 +43,7 @@ Testing & Release
 Unit/UI tests, App Bundles, Play Console, Staged Rollouts
 
 📱 Published Android Applications
-Google Play Developer Portfolio: [replace with link](https://play.google.com/store/apps/dev?id=7697350556322115717)
+Google Play Developer Portfolio: [https://play.google.com/store/apps/dev?id=7697350556322115717](https://play.google.com/store/apps/dev?id=7697350556322115717)]
 
 Highlights include:
 
