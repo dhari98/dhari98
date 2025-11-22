@@ -45,7 +45,7 @@ Unit/UI tests, App Bundles, Play Console, Staged Rollouts
 📱 Published Projects
 
 Live apps on Google Play:
-🔗 Your Google Play Developer Page ([replace with link](https://play.google.com/store/apps/dev?id=7697350556322115717)
+🔗 Your Google Play Developer Page ([replace with link](https://play.google.com/store/apps/dev?id=7697350556322115717))
 
 Highlights include:
 
