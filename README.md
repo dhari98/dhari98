@@ -1,90 +1,30 @@
-👋 Hi, I'm Dhari Al-Rufaye
-🎯 Android App Developer | Kotlin | Android Studio | Firebase | AdMob | UI/UX | Google Play
+# 👋 Hi, I'm Dhari Al-Rufaye
 
-I’m a self-taught Android developer who started learning and improving in this field consistently since 2020. Over the years, I’ve developed my skills through continuous practice, problem-solving, and following the latest Android standards.
-Programming has become more than a job — it’s a craft that allows me to build smart and meaningful digital experiences that help people.
+**Aspiring IT Professional | Passionate about Software & Application Development**
 
-🚀 Tech Stack
-Languages & Core
+I am a dedicated learner with a strong interest in the world of programming. My journey started with a curiosity for how apps work, which led me to dive into self-study and practical experimentation. I believe that great software is built through a combination of solid foundations and continuous growth.
 
-Kotlin, Coroutines, Flow
+---
 
-IDE & Tools
+### 🛠 My Technical Foundations
+* **Programming:** Basic Kotlin.
+* **Android Development:** Understanding of core concepts and XML layouts.
+* **Cloud & Backend:** Introductory knowledge of Firebase and cloud services.
+* **Version Control:** Git & GitHub for managing projects.
 
-Android Studio, Git/GitHub, Gradle
+### 📱 Learning through Practice
+I apply my knowledge by building educational and utility applications. To me, these projects are "digital learning steps"—each one is an opportunity to recognize where I can improve and how to solve new challenges.
 
-Android & Jetpack
+### 🌱 Goals for Growth
+I am focused on evolving my skills by:
+* Writing **clearer and more structured code**.
+* Understanding **professional workflows** and how high-performing teams collaborate.
+* Adopting the **industry standards and best practices** used in modern companies.
 
-ViewModel, LiveData, Room, Navigation, WorkManager, DataStore
+### 🤝 My Commitment
+I am a reliable, patient, and highly motivated individual. I value feedback and am ready to grow through structured training and practical experience. My goal is to transform my passion into a professional career.
 
-Networking & Data
+---
 
-Retrofit / OkHttp, Moshi / Gson, SQLite / Room
-
-Firebase
-
-Authentication (Email/Password + Google Sign-In)
-Cloud Firestore & Realtime Database
-Cloud Messaging (Push Notifications)
-Crashlytics, Remote Config
-
-Monetization
-
-AdMob (banner, interstitial, native)
-Best practices for loading/showing ads efficiently
-
-UI/UX
-
-Material Design, XML layouts
-MotionLayout, Animations, Lottie, Vector assets
-
-Testing & Release
-
-Unit/UI tests, App Bundles, Play Console, Staged Rollouts
-
-📱 Published Android Applications
-[Google Play Developer Portfolio](https://play.google.com/store/apps/dev?id=7697350556322115717)
-
-Highlights include:
-
-Apps featuring secure login systems (Firebase Auth + Google Sign-In)
-
-Apps with push notifications (Firebase Cloud Messaging)
-
-Educational, productivity, and utility apps using:
-
-Room database
-
-Retrofit APIs
-
-AdMob monetization
-
-Clean MVVM architecture
-
-Offline caching, progress saving, etc.
-
-🌱 Currently Learning
-
-Jetpack Compose & Material 3
-
-Advanced Firebase (Cloud Functions, Security Rules)
-
-Android CI/CD with GitHub Actions
-
-🤝 Collaboration
-
-I’m open to collaborating on:
-
-Education apps
-
-Productivity tools
-
-Language-learning apps
-
-Also open to remote roles and visa-sponsorship opportunities.
-
-📫 Contact
-
-📧 Email: dharifon@gmail.com
-
-[🌍 All links: linktr](linktr.ee/dhari98)
+### 📫 Let's Connect
+* **Email:** [dharifon@gmail.com](mailto:dharifon@gmail.com)
